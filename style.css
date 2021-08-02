@@ -25,6 +25,7 @@ body .container {
 body main {
   padding-top: 30px;
   text-align: center;
+  height: 90vh;
 }
 
 body main header#header a {
@@ -61,7 +62,7 @@ body main .second-section h1 {
   margin-bottom: 0;
 }
 
-body main .second-section h3 {
+body main .second-section h4 {
   text-transform: capitalize;
   font-weight: normal;
   margin-top: 0;
@@ -81,8 +82,6 @@ body main .second-section .btn .fab {
 }
 
 body footer {
-  position: fixed;
-  bottom: 0px;
   text-align: center;
   background-color: #5DA3FA;
   -webkit-box-shadow: 0px 0px 5px #5DA3FA;
